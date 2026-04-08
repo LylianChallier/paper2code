@@ -1,0 +1,28 @@
+# Jupyter
+notebook
+jupyterlab
+ipykernel
+ipywidgets
+
+# Data manipulation
+numpy
+pandas
+
+# Visualisation
+matplotlib
+seaborn
+plotly
+
+# Machine Learning
+scikit-learn
+
+# Utilitaires
+python-dotenv
+pydantic-settings
+tqdm
+
+# LLM
+mistralai
+
+# Vector DB
+chromadb
